@@ -7,9 +7,9 @@ using namespace std;
 const int dim18 = 18;
 string all_moves[dim18] ={"R", "r", "L", "l", "F", "f", "B", "b", "U", "u", "D", "d", "2R", "2L", "2F", "2B", "2U", "2D"};
 
-#include "Cube/Cube.h"
+#include "Cube.h"
 #include "helper.cpp"
-#include "Cube/Cube.cpp"
+#include "Cube.cpp"
 #include "search.cpp"
 #include "color_handling.cpp"
 
